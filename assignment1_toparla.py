@@ -1,4 +1,4 @@
-def Toparla(L)::
+def Toparla(L):
     '''
     note that L is an iterable object such as a list.
     your code should not crash no matter what.
