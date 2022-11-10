@@ -7,3 +7,6 @@ The first assignment is a small function. It takes one variable as input argumen
     It stores all other data types in the given list or tuple.
     
 The function returns 2 variables. sum value and the list that stores other data.
+
+## Assignment2 : Gnome-Mines Game with Media Pipe
+You can play Minesweeper game with your hand. When your hand reaches the circles, it means you want to make move to that direction. When you make your hand fist, it means you click.
